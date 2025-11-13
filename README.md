@@ -33,6 +33,10 @@ Youtube Video -
 
  - 60mm Fan - https://amzn.to/3JTiFO1
 
+ - SHT 31 sensor - https://amzn.to/48c7MQA
+
+   - I havent tested it but the code should also work with a cheaper SHT 30 sensor you just sacrifice some accuracy in readings
+
  - Resistors
 
  - Transistors
