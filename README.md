@@ -77,7 +77,7 @@ Almost all of the 3D printed parts can just be screwed together except for the t
    
     - The humidifier module requires a simple modification for proper fuction you simply need to remove the push button on the module board so that when the board receives power it turns on automatically.
 
- - <h3>Relay (LED Strip)</h3>
+ - <h3>Relay (Fan)</h3>
 
     - The relay connects to the fan and requires 12v and is connected to pin 7 on the arduino
 
