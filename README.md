@@ -2,7 +2,7 @@
 
 Below is a list of components that are required for the project along with advice for assembling everything.
 
-Youtube Video - 
+Youtube Video - https://youtu.be/puENLGAer3o
 
 
 <h2>Components</h2>
@@ -83,7 +83,7 @@ Almost all of the 3D printed parts can just be screwed together except for the t
 
 - <h3>Buck Converter</h3>
 
-  - Depending on your power supply you with either need 1 or 2 buck converters if your using a 12v input you need to split it into 2 channels 1 that will directly connect to the pcb to powwer the 12v fan and LED strip and 1 channel that is stepped down to 5v in the buck converter that then connects to the pcb to power the rest of the electronics. If you are using a higher voltage power supply youll need 2 buck converters 1 that steps down to 12v and one that steps down to 5v both are connected the same way after passing through the buck converter.
+  - Depending on your power supply you with either need 1 or 2 buck converters if your using a 12v power supply you need to split it into 2 channels 1 that will directly connect to the pcb to powwer the 12v fan and LED strip and 1 channel that is stepped down to 5v in the buck converter that then connects to the pcb to power the rest of the electronics. If you are using a higher voltage power supply youll need 2 buck converters 1 that steps down to 12v and one that steps down to 5v both are connected the same way after passing through the buck converter.
 
 - <h3>Switch</h3>
 
