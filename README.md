@@ -60,3 +60,5 @@ Almost all of the 3D printed parts can just be screwed together except for the t
      - For connecting the top plate of the humidifier to the bottom exhaust port you can use acetone to weld the parts together and use hot glue to create a seal around the edges.
   
      - For connecting the bottom exhaust to the top exhaust you can do the same acetone welding process to connect the 2 parts but to make sure it is sealed it is preferred to use silicone but hot glue works too.
+
+ <h3>Electronics</h3>
